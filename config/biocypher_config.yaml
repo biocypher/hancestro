@@ -3,7 +3,6 @@
 biocypher:
   offline: true
   debug: false
-  schema_config_path: config/schema_config.yaml
   head_ontology: 
     url: https://raw.githubusercontent.com/EBISPOT/hancestro/main/hancestro.owl
     root_node: ancestry category
